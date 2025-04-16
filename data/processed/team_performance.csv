@@ -1,0 +1,46 @@
+match_id,team1,team2,winner,margin,ground,match_date,team_strength_index
+1,Namibia,Sri Lanka,Namibia,55 runs,Geelong,"Oct 16, 2022",0.9760851623384769
+2,Netherlands,U.A.E.,Netherlands,3 wickets,Geelong,"Oct 16, 2022",0.3884108422532474
+3,Scotland,West Indies,Scotland,42 runs,Hobart,"Oct 17, 2022",0.3632322534501621
+4,Ireland,Zimbabwe,Zimbabwe,31 runs,Hobart,"Oct 17, 2022",0.3250434155670877
+5,Namibia,Netherlands,Netherlands,5 wickets,Geelong,"Oct 18, 2022",0.6194234777902204
+6,Sri Lanka,U.A.E.,Sri Lanka,79 runs,Geelong,"Oct 18, 2022",0.1402103744084886
+7,Ireland,Scotland,Ireland,6 wickets,Hobart,"Oct 19, 2022",0.960132712254269
+8,West Indies,Zimbabwe,West Indies,31 runs,Hobart,"Oct 19, 2022",0.431066405231155
+9,Netherlands,Sri Lanka,Sri Lanka,16 runs,Geelong,"Oct 20, 2022",0.8857025093808809
+10,Namibia,U.A.E.,U.A.E.,7 runs,Geelong,"Oct 20, 2022",0.4341773270782424
+11,Ireland,West Indies,Ireland,9 wickets,Hobart,"Oct 21, 2022",0.5088115259284379
+12,Scotland,Zimbabwe,Zimbabwe,5 wickets,Hobart,"Oct 21, 2022",0.7912367603770898
+13,Australia,New Zealand,New Zealand,89 runs,Sydney,"Oct 22, 2022",0.9923678993425769
+14,Afghanistan,England,England,5 wickets,Perth,"Oct 22, 2022",0.13640705046775203
+15,Ireland,Sri Lanka,Sri Lanka,9 wickets,Hobart,"Oct 23, 2022",0.26561339977762655
+16,India,Pakistan,India,4 wickets,Melbourne,"Oct 23, 2022",0.9726261414225528
+17,Bangladesh,Netherlands,Bangladesh,9 runs,Hobart,"Oct 24, 2022",0.5972675792921791
+18,South Africa,Zimbabwe,no result,,Hobart,"Oct 24, 2022",0.951835664599659
+19,Australia,Sri Lanka,Australia,7 wickets,Perth,"Oct 25, 2022",0.18181148956187587
+20,England,Ireland,Ireland,5 runs,Melbourne,"Oct 26, 2022",0.5627008441597329
+21,Afghanistan,New Zealand,abandoned,,Melbourne,"Oct 26, 2022",0.4800911241458423
+22,Bangladesh,South Africa,South Africa,104 runs,Sydney,"Oct 27, 2022",0.6944276298358926
+23,India,Netherlands,India,56 runs,Sydney,"Oct 27, 2022",0.8513577848846583
+24,Pakistan,Zimbabwe,Zimbabwe,1 run,Perth,"Oct 27, 2022",0.06302841708008933
+25,Afghanistan,Ireland,abandoned,,Melbourne,"Oct 28, 2022",0.2721630893625545
+26,Australia,England,abandoned,,Melbourne,"Oct 28, 2022",0.29577666952544457
+27,New Zealand,Sri Lanka,New Zealand,65 runs,Sydney,"Oct 29, 2022",0.5065517410298828
+28,Bangladesh,Zimbabwe,Bangladesh,3 runs,Brisbane,"Oct 30, 2022",0.24151697166115482
+29,Netherlands,Pakistan,Pakistan,6 wickets,Perth,"Oct 30, 2022",0.20147136099667062
+30,India,South Africa,South Africa,5 wickets,Perth,"Oct 30, 2022",0.1454146800584264
+31,Australia,Ireland,Australia,42 runs,Brisbane,"Oct 31, 2022",0.9058871165280558
+32,Afghanistan,Sri Lanka,Sri Lanka,6 wickets,Brisbane,"Nov 1, 2022",0.8012447852055455
+33,England,New Zealand,England,20 runs,Brisbane,"Nov 1, 2022",0.16260569451678375
+34,Netherlands,Zimbabwe,Netherlands,5 wickets,Adelaide,"Nov 2, 2022",0.9962223693515523
+35,Bangladesh,India,India,5 runs,Adelaide,"Nov 2, 2022",0.8825948448164426
+36,Pakistan,South Africa,Pakistan,33 runs,Sydney,"Nov 3, 2022",0.5745144541296395
+37,Ireland,New Zealand,New Zealand,35 runs,Adelaide,"Nov 4, 2022",0.6756654982596967
+38,Australia,Afghanistan,Australia,4 runs,Adelaide,"Nov 4, 2022",0.2815240275531542
+39,England,Sri Lanka,England,4 wickets,Sydney,"Nov 5, 2022",0.8370274353991659
+40,Netherlands,South Africa,Netherlands,13 runs,Adelaide,"Nov 6, 2022",0.9415544034713833
+41,Bangladesh,Pakistan,Pakistan,5 wickets,Adelaide,"Nov 6, 2022",0.8343533331465159
+42,India,Zimbabwe,India,71 runs,Melbourne,"Nov 6, 2022",0.8190258980023939
+43,New Zealand,Pakistan,Pakistan,7 wickets,Sydney,"Nov 9, 2022",0.09565841622963811
+44,England,India,England,10 wickets,Adelaide,"Nov 10, 2022",0.2707966146432408
+45,England,Pakistan,England,5 wickets,Melbourne,"Nov 13, 2022",0.7472469307482765

@@ -1,0 +1,220 @@
+player_id,name,team,playing_role,batting_runs,total_balls,total_fours,total_sixes,matches_played,total_overs,total_wickets,bowling_runs,total_maidens,total_wides,total_noballs
+1,Michael van Lingen,Namibia,Bowling Allrounder,33.0,33.0,4.0,0.0,3.0,,,,,,
+2,Divan la Cock,Namibia,Opening Batter,9.0,11.0,1.0,0.0,2.0,,,,,,
+3,Jan Nicol Loftie-Eaton,Namibia,Batter,21.0,20.0,1.0,2.0,3.0,1.0,0.0,8.0,0.0,0.0,1.0
+4,Stephan Baard,Namibia,Batter,49.0,52.0,3.0,0.0,3.0,,,,,,
+5,Gerhard Erasmus(c),Namibia,Allrounder,52.0,60.0,2.0,0.0,3.0,,,,,,
+6,Jan Frylinck,Namibia,Allrounder,101.0,93.0,6.0,1.0,3.0,11.0,3.0,72.0,1.0,2.0,0.0
+7,David Wiese,Namibia,Allrounder,66.0,42.0,4.0,3.0,3.0,10.3,3.0,65.0,0.0,1.0,0.0
+8,JJ Smit,Namibia,Bowling Allrounder,39.0,23.0,3.0,2.0,3.0,11.0,3.0,79.0,0.0,1.0,0.0
+9,Pathum Nissanka,Sri Lanka,Top order Batter,214.0,196.0,13.0,8.0,7.0,,,,,,
+10,Kusal Mendis†,Sri Lanka,Wicketkeeper Batter,223.0,156.0,17.0,10.0,8.0,,,,,,
+11,Dhananjaya de Silva,Sri Lanka,Allrounder,177.0,137.0,15.0,4.0,8.0,12.1,6.0,83.0,0.0,0.0,0.0
+12,Danushka Gunathilaka,Sri Lanka,Allrounder,0.0,1.0,0.0,0.0,1.0,,,,,,
+13,Bhanuka Rajapaksa,Sri Lanka,Top order Batter,125.0,105.0,14.0,2.0,7.0,,,,,,
+14,Dasun Shanaka(c),Sri Lanka,Allrounder,78.0,74.0,6.0,3.0,7.0,,,,,,
+15,Wanindu Hasaranga de Silva,Sri Lanka,Allrounder,25.0,34.0,2.0,0.0,6.0,31.0,15.0,199.0,1.0,0.0,0.0
+16,Chamika Karunaratne,Sri Lanka,Bowling Allrounder,32.0,38.0,3.0,0.0,6.0,18.0,3.0,144.0,0.0,4.0,0.0
+17,Pramod Madushan,Sri Lanka,Bowler,1.0,1.0,0.0,0.0,2.0,10.0,3.0,75.0,0.0,1.0,0.0
+18,Dushmantha Chameera,Sri Lanka,Bowler,9.0,16.0,0.0,0.0,2.0,7.5,4.0,54.0,0.0,2.0,0.0
+19,Maheesh Theekshana,Sri Lanka,Bowler,11.0,14.0,0.0,1.0,3.0,30.1,9.0,202.0,0.0,8.0,1.0
+20,Gerhard Erasmus,Namibia,Allrounder,,,,,,4.0,0.0,21.0,0.0,1.0,0.0
+21,Bernard Scholtz,Namibia,Bowler,1.0,1.0,0.0,0.0,1.0,12.0,4.0,61.0,0.0,0.0,0.0
+22,Ben Shikongo,Namibia,Bowler,,,,,,5.0,3.0,48.0,1.0,1.0,0.0
+23,Charith Asalanka,Sri Lanka,Batting Allrounder,131.0,113.0,9.0,2.0,7.0,1.0,0.0,8.0,0.0,0.0,0.0
+24,David Warner,Australia,Opening Batter,44.0,41.0,6.0,0.0,4.0,,,,,,
+25,Aaron Finch(c),Australia,Top order Batter,107.0,97.0,6.0,5.0,3.0,,,,,,
+26,Mitchell Marsh,Australia,Allrounder,106.0,81.0,8.0,6.0,4.0,1.0,0.0,14.0,0.0,0.0,0.0
+27,Glenn Maxwell,Australia,Batting Allrounder,118.0,73.0,11.0,6.0,4.0,3.1,3.0,19.0,0.0,0.0,0.0
+28,Marcus Stoinis,Australia,Batting Allrounder,126.0,78.0,7.0,9.0,4.0,9.0,1.0,87.0,0.0,4.0,0.0
+29,Josh Hazlewood,Australia,Bowler,1.0,1.0,0.0,0.0,1.0,15.0,5.0,124.0,0.0,5.0,0.0
+30,Pat Cummins,Australia,Bowler,21.0,20.0,2.0,1.0,2.0,16.0,3.0,132.0,0.0,5.0,0.0
+31,Mitchell Starc,Australia,Bowler,4.0,7.0,0.0,0.0,1.0,12.0,3.0,102.0,1.0,3.0,1.0
+32,Ashton Agar,Australia,Bowler,,,,,,4.0,1.0,25.0,0.0,1.0,0.0
+33,Binura Fernando,Sri Lanka,Bowler,,,,,,8.5,2.0,65.0,0.0,2.0,0.0
+34,Lahiru Kumara,Sri Lanka,Bowler,4.0,5.0,1.0,0.0,1.0,19.7,7.0,153.0,0.0,10.0,2.0
+35,Dasun Shanaka,Sri Lanka,Allrounder,,,,,,3.1,1.0,24.0,0.0,1.0,0.0
+36,Regis Chakabva†,Zimbabwe,Wicketkeeper Batter,32.0,55.0,2.0,1.0,7.0,,,,,,
+37,Craig Ervine(c),Zimbabwe,Middle order Batter,112.0,125.0,13.0,0.0,7.0,,,,,,
+38,Wessly Madhevere,Zimbabwe,Allrounder,106.0,83.0,15.0,2.0,8.0,3.0,0.0,25.0,0.0,0.0,0.0
+39,Sean Williams,Zimbabwe,Middle order Batter,155.0,137.0,14.0,2.0,8.0,18.0,5.0,111.0,0.0,4.0,1.0
+40,Sikandar Raza,Zimbabwe,Batting Allrounder,219.0,148.0,16.0,11.0,8.0,24.0,10.0,156.0,0.0,5.0,1.0
+41,Milton Shumba,Zimbabwe,Top order Batter,65.0,82.0,5.0,0.0,7.0,,,,,,
+42,Ryan Burl,Zimbabwe,Middle order Batter,101.0,97.0,11.0,2.0,7.0,5.0,0.0,48.0,0.0,0.0,0.0
+43,Luke Jongwe,Zimbabwe,Bowler,55.0,41.0,6.0,1.0,4.0,5.0,2.0,59.0,0.0,3.0,1.0
+44,Paul Stirling,Ireland,Batting Allrounder,170.0,127.0,16.0,6.0,7.0,,,,,,
+45,Andy Balbirnie(c),Ireland,Batter,153.0,123.0,10.0,9.0,7.0,,,,,,
+46,Lorcan Tucker†,Ireland,Wicketkeeper Batter,204.0,163.0,19.0,4.0,7.0,,,,,,
+47,Harry Tector,Ireland,Middle order Batter,68.0,75.0,4.0,1.0,6.0,,,,,,
+48,Curtis Campher,Ireland,Allrounder,126.0,77.0,12.0,2.0,6.0,8.0,2.0,74.0,0.0,0.0,0.0
+49,George Dockrell,Ireland,Allrounder,100.0,83.0,10.0,1.0,6.0,8.0,1.0,56.0,0.0,2.0,0.0
+50,Gareth Delany,Ireland,Batting Allrounder,69.0,54.0,7.0,1.0,5.0,23.3,6.0,185.0,0.0,8.0,0.0
+51,Mark Adair,Ireland,Bowling Allrounder,28.0,31.0,1.0,1.0,5.0,24.0,4.0,212.0,0.0,17.0,0.0
+52,Simi Singh,Ireland,Bowling Allrounder,7.0,9.0,1.0,0.0,2.0,9.0,3.0,78.0,0.0,1.0,0.0
+53,Barry McCarthy,Ireland,Bowler,36.0,33.0,1.0,2.0,5.0,25.0,5.0,227.0,0.0,8.0,1.0
+54,Josh Little,Ireland,Bowler,16.0,21.0,1.0,1.0,4.0,27.0,11.0,189.0,0.0,8.0,0.0
+55,Richard Ngarava,Zimbabwe,Bowler,21.0,20.0,0.0,2.0,5.0,28.0,9.0,197.0,1.0,7.0,3.0
+56,Tendai Chatara,Zimbabwe,Bowler,13.0,19.0,1.0,0.0,3.0,23.0,4.0,155.0,1.0,4.0,0.0
+57,Blessing Muzarabani,Zimbabwe,Bowler,2.0,12.0,0.0,0.0,4.0,26.0,12.0,199.0,0.0,4.0,4.0
+58,Hazratullah Zazai,Afghanistan,Opening Batter,7.0,17.0,1.0,0.0,1.0,,,,,,
+59,Rahmanullah Gurbaz†,Afghanistan,Wicketkeeper Batter,68.0,50.0,4.0,5.0,3.0,,,,,,
+60,Ibrahim Zadran,Afghanistan,Opening Batter,80.0,83.0,6.0,2.0,3.0,,,,,,
+61,Usman Ghani,Afghanistan,Opening Batter,59.0,64.0,5.0,1.0,3.0,,,,,,
+62,Najibullah Zadran,Afghanistan,Middle order Batter,31.0,29.0,1.0,1.0,3.0,,,,,,
+63,Mohammad Nabi(c),Afghanistan,Allrounder,17.0,15.0,1.0,0.0,3.0,,,,,,
+64,Azmatullah Omarzai,Afghanistan,Allrounder,11.0,10.0,1.0,0.0,2.0,3.1,0.0,28.0,0.0,4.0,0.0
+65,Rashid Khan,Afghanistan,Bowling Allrounder,57.0,32.0,4.0,4.0,3.0,12.0,4.0,77.0,0.0,2.0,0.0
+66,Mujeeb Ur Rahman,Afghanistan,Bowler,1.0,3.0,0.0,0.0,2.0,12.0,4.0,88.0,0.0,1.0,0.0
+67,Fareed Ahmad,Afghanistan,Bowler,2.0,4.0,0.0,0.0,1.0,4.0,1.0,48.0,0.0,2.0,0.0
+68,Fazalhaq Farooqi,Afghanistan,Bowler,0.0,2.0,0.0,0.0,1.0,11.3,3.0,75.0,1.0,4.0,0.0
+69,Jos Buttler(c)†,England,Wicketkeeper Batter,225.0,156.0,24.0,7.0,6.0,,,,,,
+70,Alex Hales,England,Opening Batter,212.0,144.0,19.0,10.0,6.0,,,,,,
+71,Dawid Malan,England,Top order Batter,56.0,68.0,2.0,0.0,3.0,,,,,,
+72,Ben Stokes,England,Allrounder,110.0,104.0,7.0,1.0,5.0,16.2,6.0,111.0,0.0,3.0,1.0
+73,Liam Livingstone,England,Batting Allrounder,55.0,44.0,4.0,1.0,5.0,12.0,3.0,96.0,0.0,1.0,0.0
+74,Harry Brook,England,Batter,56.0,58.0,2.0,1.0,5.0,,,,,,
+75,Moeen Ali,England,Batting Allrounder,57.0,46.0,6.0,1.0,5.0,2.0,0.0,9.0,0.0,0.0,0.0
+76,Chris Woakes,England,Allrounder,5.0,3.0,1.0,0.0,1.0,20.0,5.0,172.0,0.0,9.0,0.0
+77,Mark Wood,England,Bowler,,,,,,14.0,9.0,108.0,0.0,4.0,0.0
+78,Sam Curran,England,Allrounder,12.0,14.0,0.0,1.0,2.0,22.4,13.0,148.0,0.0,3.0,0.0
+79,Adil Rashid,England,Bowler,,,,,,24.0,4.0,147.0,1.0,1.0,0.0
+80,Mohammad Nabi,Afghanistan,Allrounder,,,,,,6.0,1.0,46.0,0.0,0.0,0.0
+81,Muhammad Waseem,U.A.E.,Opening Batter,93.0,92.0,2.0,5.0,3.0,2.0,1.0,16.0,0.0,0.0,0.0
+82,Vriitya Aravind†,U.A.E.,Wicketkeeper,48.0,71.0,3.0,0.0,3.0,,,,,,
+83,Chundangapoyil Rizwan(c),U.A.E.,Middle order Batter,45.0,34.0,3.0,1.0,3.0,,,,,,
+84,Alishan Sharafu,U.A.E.,Opening Batter,4.0,4.0,0.0,0.0,1.0,,,,,,
+85,Basil Hameed,U.A.E.,Middle order Batter,31.0,24.0,3.0,2.0,3.0,5.0,3.0,37.0,0.0,0.0,0.0
+86,Zane Green†,Namibia,Wicketkeeper Batter,2.0,3.0,0.0,0.0,1.0,,,,,,
+87,Ruben Trumpelmann,Namibia,Bowler,25.0,24.0,1.0,1.0,1.0,4.0,0.0,22.0,0.0,3.0,0.0
+88,Junaid Siddique,U.A.E.,Bowler,18.0,17.0,1.0,1.0,2.0,12.0,4.0,95.0,0.0,5.0,0.0
+89,Zahoor Khan,U.A.E.,Bowler,1.0,1.0,0.0,0.0,1.0,12.0,5.0,57.0,0.0,2.0,2.0
+90,Ahmed Raza,U.A.E.,Bowler,,,,,,1.0,0.0,9.0,0.0,0.0,0.0
+91,Karthik Meiyappan,U.A.E.,Bowler,4.0,8.0,0.0,0.0,2.0,12.0,5.0,75.0,0.0,0.0,0.0
+92,Aayan Afzal Khan,U.A.E.,Bowling Allrounder,24.0,28.0,1.0,0.0,2.0,8.0,2.0,38.0,0.0,0.0,0.0
+93,Chirag Suri,U.A.E.,Opening Batter,26.0,39.0,4.0,0.0,2.0,,,,,,
+94,Kashif Daud,U.A.E.,Bowling Allrounder,15.0,18.0,0.0,1.0,2.0,2.0,0.0,19.0,0.0,0.0,0.0
+95,Zawar Farid,U.A.E.,Bowler,2.0,4.0,0.0,0.0,1.0,2.5,0.0,24.0,0.0,0.0,0.0
+96,Vikramjit Singh,Netherlands,Opening Batter,57.0,62.0,5.0,2.0,5.0,,,,,,
+97,Max O'Dowd,Netherlands,Opening Batter,242.0,215.0,22.0,8.0,8.0,,,,,,
+98,Bas de Leede,Netherlands,Batting Allrounder,93.0,117.0,7.0,1.0,8.0,22.0,13.0,169.0,0.0,7.0,2.0
+99,Colin Ackermann,Netherlands,Batting Allrounder,165.0,149.0,13.0,4.0,8.0,7.0,1.0,37.0,0.0,0.0,0.0
+100,Tom Cooper,Netherlands,Middle order Batter,107.0,103.0,7.0,3.0,8.0,,,,,,
+101,Scott Edwards(c)†,Netherlands,Wicketkeeper Batter,91.0,104.0,8.0,0.0,8.0,,,,,,
+102,Roelof van der Merwe,Netherlands,Allrounder,5.0,12.0,0.0,0.0,4.0,11.0,2.0,75.0,0.0,1.0,0.0
+103,Tim Pringle,Netherlands,Allrounder,51.0,58.0,1.0,1.0,6.0,17.0,3.0,102.0,0.0,0.0,0.0
+104,Logan van Beek,Netherlands,Bowler,15.0,23.0,0.0,0.0,4.0,16.2,3.0,125.0,0.0,3.0,0.0
+105,Fred Klaassen,Netherlands,Bowler,10.0,11.0,0.0,0.0,4.0,30.0,8.0,191.0,0.0,10.0,0.0
+106,Paul van Meekeren,Netherlands,Bowler,45.0,27.0,6.0,1.0,4.0,31.0,11.0,198.0,0.0,5.0,1.0
+107,Kyle Mayers,West Indies,Batting Allrounder,34.0,30.0,5.0,1.0,3.0,3.0,0.0,41.0,0.0,3.0,0.0
+108,Johnson Charles,West Indies,Wicketkeeper Batter,69.0,54.0,6.0,3.0,2.0,,,,,,
+109,Evin Lewis,West Indies,Opening Batter,42.0,49.0,2.0,1.0,3.0,,,,,,
+110,Brandon King,West Indies,Top order Batter,79.0,63.0,9.0,1.0,2.0,,,,,,
+111,Nicholas Pooran(c)†,West Indies,Wicketkeeper Batter,25.0,29.0,0.0,1.0,3.0,,,,,,
+112,Rovman Powell,West Indies,Middle order Batter,39.0,35.0,2.0,2.0,3.0,,,,,,
+113,Odean Smith,West Indies,Bowling Allrounder,25.0,22.0,1.0,2.0,3.0,9.0,2.0,85.0,0.0,2.0,2.0
+114,Obed McCoy,West Indies,Bowler,2.0,3.0,0.0,0.0,1.0,9.3,1.0,71.0,0.0,0.0,0.0
+115,Akeal Hosein,West Indies,Bowler,24.0,19.0,2.0,0.0,2.0,12.0,2.0,94.0,0.0,1.0,1.0
+116,Alzarri Joseph,West Indies,Bowler,0.0,1.0,0.0,0.0,1.0,12.0,6.0,83.0,0.0,3.0,0.0
+117,Jason Holder,West Indies,Bowling Allrounder,42.0,36.0,4.0,1.0,2.0,10.2,5.0,49.0,0.0,0.0,0.0
+118,Mohammad Rizwan†,Pakistan,Wicketkeeper Batter,175.0,160.0,15.0,3.0,7.0,,,,,,
+119,Babar Azam(c),Pakistan,Batter,124.0,133.0,13.0,0.0,7.0,,,,,,
+120,Shan Masood,Pakistan,Opening Batter,175.0,148.0,12.0,1.0,7.0,,,,,,
+121,Iftikhar Ahmed,Pakistan,Middle order Batter,114.0,93.0,6.0,6.0,7.0,3.5,1.0,28.0,0.0,0.0,0.0
+122,Shadab Khan,Pakistan,Allrounder,98.0,58.0,7.0,5.0,6.0,26.0,11.0,165.0,0.0,0.0,0.0
+123,Haider Ali,Pakistan,Middle order Batter,2.0,5.0,0.0,0.0,2.0,,,,,,
+124,Mohammad Nawaz,Pakistan,Allrounder,68.0,64.0,7.0,2.0,5.0,9.0,3.0,67.0,0.0,2.0,1.0
+125,Asif Ali,Pakistan,Middle order Batter,2.0,3.0,0.0,0.0,1.0,,,,,,
+126,Shaheen Shah Afridi,Pakistan,Bowler,22.0,12.0,2.0,1.0,3.0,25.1,11.0,155.0,0.0,2.0,0.0
+127,Haris Rauf,Pakistan,Bowler,10.0,7.0,0.0,1.0,3.0,26.0,8.0,178.0,1.0,3.0,0.0
+128,KL Rahul,India,Opening Batter,128.0,106.0,8.0,8.0,6.0,,,,,,
+129,Rohit Sharma(c),India,Top order Batter,116.0,109.0,11.0,4.0,6.0,,,,,,
+130,Virat Kohli,India,Top order Batter,296.0,217.0,25.0,8.0,6.0,,,,,,
+131,Suryakumar Yadav,India,Batter,239.0,126.0,26.0,9.0,6.0,,,,,,
+132,Axar Patel,India,Bowling Allrounder,9.0,9.0,1.0,0.0,3.0,13.2,3.0,115.0,0.0,0.0,0.0
+133,Hardik Pandya,India,Allrounder,128.0,97.0,7.0,7.0,5.0,18.0,8.0,146.0,0.0,3.0,1.0
+134,Dinesh Karthik†,India,Wicketkeeper Batter,14.0,22.0,1.0,0.0,3.0,,,,,,
+135,Ravichandran Ashwin,India,Bowling Allrounder,21.0,18.0,1.0,1.0,4.0,19.0,6.0,155.0,0.0,5.0,0.0
+136,Bhuvneshwar Kumar,India,Bowler,4.0,6.0,0.0,0.0,1.0,18.4,4.0,115.0,3.0,5.0,0.0
+137,Arshdeep Singh,India,Bowler,2.0,1.0,0.0,0.0,1.0,20.0,10.0,156.0,0.0,6.0,1.0
+138,Mohammed Shami,India,Bowler,0.0,2.0,0.0,0.0,1.0,20.0,6.0,143.0,0.0,1.0,0.0
+139,Naseem Shah,Pakistan,Bowler,5.0,3.0,0.0,0.0,1.0,26.0,3.0,162.0,0.0,4.0,0.0
+140,Najmul Hossain Shanto,Bangladesh,Top order Batter,180.0,157.0,20.0,2.0,5.0,,,,,,
+141,Soumya Sarkar,Bangladesh,Middle order Batter,49.0,39.0,3.0,3.0,4.0,3.0,1.0,29.0,0.0,1.0,0.0
+142,Litton Das,Bangladesh,Wicketkeeper Batter,127.0,89.0,11.0,5.0,5.0,,,,,,
+143,Shakib Al Hasan(c),Bangladesh,Allrounder,44.0,46.0,3.0,0.0,5.0,,,,,,
+144,Afif Hossain,Bangladesh,Allrounder,95.0,76.0,6.0,3.0,5.0,1.0,1.0,11.0,0.0,0.0,0.0
+145,Yasir Ali,Bangladesh,Middle order Batter,5.0,9.0,0.0,0.0,3.0,,,,,,
+146,Nurul Hasan†,Bangladesh,Wicketkeeper Batter,41.0,42.0,2.0,1.0,5.0,,,,,,
+147,Mosaddek Hossain,Bangladesh,Middle order Batter,38.0,39.0,2.0,2.0,5.0,7.0,2.0,64.0,0.0,0.0,2.0
+148,Taskin Ahmed,Bangladesh,Bowler,23.0,30.0,2.0,1.0,4.0,18.0,8.0,131.0,1.0,0.0,4.0
+149,Hasan Mahmud,Bangladesh,Bowler,0.0,5.0,0.0,0.0,2.0,16.0,6.0,134.0,1.0,5.0,1.0
+150,Shariz Ahmad,Netherlands,Bowler,25.0,19.0,3.0,0.0,2.0,4.0,1.0,32.0,0.0,0.0,0.0
+151,Shakib Al Hasan,Bangladesh,Allrounder,,,,,,19.0,6.0,167.0,0.0,1.0,1.0
+152,Mustafizur Rahman,Bangladesh,Bowler,9.0,4.0,0.0,1.0,2.0,20.0,3.0,112.0,0.0,2.0,0.0
+153,Fionn Hand,Ireland,Bowling Allrounder,12.0,11.0,2.0,0.0,3.0,5.0,1.0,54.0,0.0,5.0,0.0
+154,George Munsey,Scotland,Opening Batter,121.0,106.0,16.0,0.0,3.0,,,,,,
+155,Michael Jones,Scotland,Top order Batter,110.0,77.0,10.0,4.0,3.0,,,,,,
+156,Matthew Cross†,Scotland,Wicketkeeper Batter,32.0,33.0,5.0,0.0,3.0,,,,,,
+157,Richie Berrington(c),Scotland,Top order Batter,66.0,56.0,3.0,2.0,3.0,,,,,,
+158,Calum MacLeod,Scotland,Top order Batter,48.0,43.0,5.0,0.0,3.0,1.0,0.0,11.0,0.0,0.0,0.0
+159,Michael Leask,Scotland,Allrounder,33.0,28.0,4.0,0.0,3.0,10.0,4.0,67.0,0.0,1.0,0.0
+160,Chris Greaves,Scotland,Bowler,19.0,18.0,2.0,0.0,2.0,2.0,0.0,18.0,0.0,1.0,0.0
+161,Shamarh Brooks,West Indies,Top order Batter,4.0,12.0,0.0,0.0,2.0,,,,,,
+162,Mark Watt,Scotland,Bowler,,,,,,12.0,5.0,70.0,0.0,3.0,0.0
+163,Brad Wheal,Scotland,Bowler,,,,,,12.0,4.0,83.0,0.0,0.0,0.0
+164,Josh Davey,Scotland,Bowler,4.0,3.0,0.0,0.0,1.0,10.0,3.0,96.0,0.0,2.0,1.0
+165,Safyaan Sharif,Scotland,Bowler,,,,,,8.6,2.0,78.0,0.0,3.0,1.0
+166,Quinton de Kock†,South Africa,Wicketkeeper Batter,124.0,77.0,16.0,5.0,5.0,,,,,,
+167,Temba Bavuma(c),South Africa,Middle order Batter,70.0,62.0,6.0,2.0,5.0,,,,,,
+168,Kagiso Rabada,South Africa,Bowler,10.0,10.0,0.0,0.0,2.0,16.0,2.0,151.0,0.0,2.0,0.0
+169,Wayne Parnell,South Africa,Bowler,5.0,13.0,0.0,0.0,4.0,16.0,5.0,102.0,1.0,2.0,0.0
+170,Lungi Ngidi,South Africa,Bowler,4.0,1.0,1.0,0.0,1.0,13.0,7.0,116.0,0.0,4.0,0.0
+171,Keshav Maharaj,South Africa,Bowler,13.0,12.0,0.0,1.0,1.0,12.0,3.0,89.0,0.0,0.0,0.0
+172,Anrich Nortje,South Africa,Bowler,5.0,6.0,1.0,0.0,2.0,17.3,11.0,94.0,0.0,0.0,1.0
+173,Timm van der Gugten,Netherlands,Bowler,0.0,1.0,0.0,0.0,1.0,6.0,1.0,60.0,0.0,2.0,0.0
+174,Finn Allen,New Zealand,Top order Batter,95.0,51.0,11.0,5.0,5.0,,,,,,
+175,Devon Conway†,New Zealand,Wicketkeeper Batter,145.0,124.0,12.0,2.0,5.0,,,,,,
+176,Kane Williamson(c),New Zealand,Top order Batter,178.0,153.0,11.0,5.0,5.0,,,,,,
+177,Glenn Phillips,New Zealand,Wicketkeeper Batter,201.0,127.0,19.0,8.0,5.0,,,,,,
+178,James Neesham,New Zealand,Batting Allrounder,53.0,37.0,2.0,2.0,5.0,,,,,,
+179,Tim David,Australia,Middle order Batter,26.0,18.0,2.0,1.0,2.0,,,,,,
+180,Matthew Wade†,Australia,Wicketkeeper Batter,9.0,7.0,1.0,0.0,2.0,,,,,,
+181,Adam Zampa,Australia,Bowler,1.0,3.0,0.0,0.0,2.0,12.0,5.0,80.0,0.0,1.0,0.0
+182,Trent Boult,New Zealand,Bowler,,,,,,20.0,8.0,148.0,0.0,3.0,0.0
+183,Tim Southee,New Zealand,Bowler,5.0,3.0,1.0,0.0,2.0,17.2,7.0,114.0,1.0,3.0,0.0
+184,Mitchell Santner,New Zealand,Bowling Allrounder,27.0,16.0,0.0,2.0,3.0,20.0,9.0,129.0,0.0,0.0,0.0
+185,Lockie Ferguson,New Zealand,Bowler,,,,,,19.0,7.0,159.0,0.0,4.0,1.0
+186,Ish Sodhi,New Zealand,Bowler,7.0,7.0,0.0,0.0,2.0,19.2,6.0,130.0,0.0,3.0,0.0
+187,Aryan Lakra,U.A.E.,Bowler,1.0,3.0,0.0,0.0,1.0,3.0,1.0,24.0,0.0,0.0,0.0
+188,Stephan Myburgh,Netherlands,Opening Batter,51.0,48.0,8.0,1.0,3.0,,,,,,
+189,Brandon Glover,Netherlands,Bowler,,,,,,8.5,7.0,60.0,1.0,3.0,0.0
+190,Shoriful Islam,Bangladesh,Bowler,,,,,,4.0,0.0,57.0,0.0,2.0,2.0
+191,Daryl Mitchell,New Zealand,Allrounder,109.0,85.0,5.0,1.0,4.0,,,,,,
+192,Kasun Rajitha,Sri Lanka,Bowler,8.0,21.0,0.0,0.0,1.0,11.0,3.0,94.0,0.0,4.0,3.0
+193,Deepak Hooda,India,Allrounder,0.0,3.0,0.0,0.0,1.0,,,,,,
+194,Rilee Rossouw,South Africa,Top order Batter,141.0,83.0,9.0,9.0,4.0,,,,,,
+195,Aiden Markram,South Africa,Opening Batter,99.0,79.0,13.0,1.0,4.0,3.0,1.0,21.0,0.0,1.0,0.0
+196,David Miller,South Africa,Middle order Batter,78.0,67.0,5.0,3.0,3.0,,,,,,
+197,Tristan Stubbs,South Africa,Wicketkeeper Batter,31.0,31.0,2.0,1.0,3.0,,,,,,
+198,Nasum Ahmed,Bangladesh,Bowler,7.0,6.0,1.0,0.0,1.0,4.0,1.0,14.0,0.0,2.0,0.0
+199,Mohammad Haris,Pakistan,Middle order Batter,97.0,67.0,6.0,6.0,4.0,,,,,,
+200,Mohammad Wasim,Pakistan,Allrounder,16.0,22.0,2.0,0.0,3.0,17.0,8.0,124.0,0.0,8.0,0.0
+201,Ebadot Hossain,Bangladesh,Bowler,,,,,,3.1,1.0,25.0,0.0,0.0,1.0
+202,Heinrich Klaasen,South Africa,Wicketkeeper Batter,36.0,27.0,3.0,1.0,2.0,,,,,,
+203,Brad Evans,Zimbabwe,Allrounder,21.0,17.0,0.0,1.0,2.0,7.0,2.0,57.0,0.0,1.0,0.0
+204,Fakhar Zaman,Pakistan,Opening Batter,20.0,16.0,3.0,0.0,1.0,,,,,,
+205,Cameron Green,Australia,Batting Allrounder,3.0,2.0,0.0,0.0,1.0,2.0,0.0,13.0,0.0,0.0,0.0
+206,Steven Smith,Australia,Middle order Batter,4.0,4.0,1.0,0.0,1.0,,,,,,
+207,Matthew Wade(c)†,Australia,Wicketkeeper Batter,6.0,8.0,1.0,0.0,1.0,,,,,,
+208,Kane Richardson,Australia,Bowler,1.0,1.0,0.0,0.0,1.0,4.0,1.0,48.0,0.0,1.0,0.0
+209,Gulbadin Naib,Afghanistan,Batting Allrounder,51.0,37.0,3.0,2.0,2.0,4.0,0.0,43.0,0.0,0.0,0.0
+210,Darwish Rasooli,Afghanistan,Top order Batter,15.0,13.0,1.0,0.0,1.0,,,,,,
+211,Naveen-ul-Haq,Afghanistan,Bowler,0.0,0.0,0.0,0.0,1.0,4.0,3.0,21.0,0.0,0.0,0.0
+212,Rishabh Pant†,India,Wicketkeeper Batter,9.0,9.0,1.0,0.0,2.0,,,,,,
+213,Tony Munyonga,Zimbabwe,Allrounder,7.0,10.0,1.0,0.0,2.0,,,,,,
+214,Wellington Masakadza,Zimbabwe,Bowler,1.0,7.0,0.0,0.0,1.0,2.0,0.0,12.0,0.0,1.0,0.0
+215,Tabraiz Shamsi,South Africa,Bowler,1.0,1.0,0.0,0.0,1.0,8.0,4.0,56.0,0.0,4.0,0.0
+216,Phil Salt,England,Wicketkeeper Batter,10.0,9.0,2.0,0.0,1.0,,,,,,
+217,Chris Jordan,England,Bowler,,,,,,8.0,5.0,70.0,0.0,1.0,0.0
+218,Regis Chakabva(c)†,Zimbabwe,Wicketkeeper Batter,13.0,9.0,3.0,0.0,1.0,,,,,,
+219,Mehidy Hasan Miraz,Bangladesh,Allrounder,11.0,13.0,0.0,0.0,1.0,3.0,0.0,32.0,0.0,0.0,0.0

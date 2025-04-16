@@ -1,0 +1,46 @@
+team1,team2,predicted_winner,team1_probability,team2_probability,predicted_margin,actual_winner,actual_margin,prediction_status
+Namibia,Sri Lanka,Sri Lanka,0.4609417,0.5390583,47.64963614163613,Namibia,55 runs,Incorrect
+Netherlands,U.A.E.,Netherlands,0.97436565,0.025634348,43.26816647241648,Netherlands,3 wickets,Correct
+Scotland,West Indies,Scotland,0.76138777,0.23861223,47.58837967587967,Scotland,42 runs,Correct
+Ireland,Zimbabwe,Zimbabwe,0.11096157,0.88903844,42.31890995115995,Zimbabwe,31 runs,Correct
+Namibia,Netherlands,Netherlands,0.47009572,0.52990425,27.707599206349215,Netherlands,5 wickets,Correct
+Sri Lanka,U.A.E.,Sri Lanka,0.97436565,0.025634348,55.50565853590853,Sri Lanka,79 runs,Correct
+Ireland,Scotland,Ireland,0.7694111,0.23058891,67.21146825396825,Ireland,6 wickets,Correct
+West Indies,Zimbabwe,West Indies,0.5814676,0.41853237,33.94820232545232,West Indies,31 runs,Correct
+Netherlands,Sri Lanka,Netherlands,0.9571425,0.042857528,55.93519871794872,Sri Lanka,16 runs,Incorrect
+Namibia,U.A.E.,U.A.E.,0.4920366,0.5079634,20.270312409812412,U.A.E.,7 runs,Correct
+Ireland,West Indies,Ireland,0.7694111,0.23058891,75.18350396825397,Ireland,9 wickets,Correct
+Scotland,Zimbabwe,Zimbabwe,0.49817652,0.5018235,40.04048407148406,Zimbabwe,5 wickets,Correct
+Australia,New Zealand,Australia,0.66972446,0.33027554,30.088773809523808,New Zealand,89 runs,Incorrect
+Afghanistan,England,England,0.04476315,0.95523685,42.11710439560439,England,5 wickets,Correct
+Ireland,Sri Lanka,Sri Lanka,0.31118014,0.6888199,73.8388424908425,Sri Lanka,9 wickets,Correct
+India,Pakistan,India,0.75674707,0.24325293,46.04535298035298,India,4 wickets,Correct
+Bangladesh,Netherlands,Bangladesh,0.9084615,0.09153849,27.071607142857147,Bangladesh,9 runs,Correct
+South Africa,Zimbabwe,Zimbabwe,0.12079136,0.8792086,17.534297757797752,no result,,Incorrect
+Australia,Sri Lanka,Australia,0.98089063,0.019109368,58.18468559218559,Australia,7 wickets,Correct
+England,Ireland,England,0.5108612,0.48913878,14.363824314574313,Ireland,5 runs,Incorrect
+Afghanistan,New Zealand,New Zealand,0.03302088,0.96697915,11.90222619047619,abandoned,,Incorrect
+Bangladesh,South Africa,South Africa,0.04510343,0.95489657,75.44455447330449,South Africa,104 runs,Correct
+India,Netherlands,India,0.9695691,0.030430913,45.435260989010985,India,56 runs,Correct
+Pakistan,Zimbabwe,Zimbabwe,0.13476793,0.86523205,10.560772727272727,Zimbabwe,1 run,Correct
+Afghanistan,Ireland,Ireland,0.0538759,0.9461241,12.499856060606062,abandoned,,Incorrect
+Australia,England,Australia,0.8408357,0.15916431,47.76771733821734,abandoned,,Incorrect
+New Zealand,Sri Lanka,New Zealand,0.68676114,0.31323886,69.53542582417583,New Zealand,65 runs,Correct
+Bangladesh,Zimbabwe,Bangladesh,0.76557,0.23443002,14.113753746253744,Bangladesh,3 runs,Correct
+Netherlands,Pakistan,Pakistan,0.16700517,0.8329948,53.07062007437008,Pakistan,6 wickets,Correct
+India,South Africa,South Africa,0.3297317,0.6702683,60.269436507936526,South Africa,5 wickets,Correct
+Australia,Ireland,Australia,0.6568627,0.34313732,32.16752344877345,Australia,42 runs,Correct
+Afghanistan,Sri Lanka,Sri Lanka,0.32817337,0.6718266,51.39513614163614,Sri Lanka,6 wickets,Correct
+England,New Zealand,England,0.67893755,0.32106245,24.796845238095237,England,20 runs,Correct
+Netherlands,Zimbabwe,Netherlands,0.80009615,0.19990385,38.6066676934177,Netherlands,5 wickets,Correct
+Bangladesh,India,India,0.08320711,0.91679287,19.74564912864913,India,5 runs,Correct
+Pakistan,South Africa,South Africa,0.009954034,0.99004596,51.76452777777777,Pakistan,33 runs,Incorrect
+Ireland,New Zealand,New Zealand,0.019239733,0.9807603,35.71669047619048,New Zealand,35 runs,Correct
+Australia,Afghanistan,Australia,0.97253495,0.027465045,27.160878427128427,Australia,4 runs,Correct
+England,Sri Lanka,England,0.9814587,0.018541276,46.93589590964591,England,4 wickets,Correct
+Netherlands,South Africa,South Africa,0.032531075,0.9674689,73.28651587301587,Netherlands,13 runs,Incorrect
+Bangladesh,Pakistan,Pakistan,0.09455971,0.9054403,41.35702466977467,Pakistan,5 wickets,Correct
+India,Zimbabwe,India,0.8155316,0.18446839,24.67575666000666,India,71 runs,Correct
+New Zealand,Pakistan,Pakistan,0.02381511,0.9761849,61.92735836385837,Pakistan,7 wickets,Correct
+England,India,England,0.8144362,0.1855638,32.60718378843379,England,10 wickets,Correct
+England,Pakistan,England,0.85224634,0.14775366,44.04049186924187,England,5 wickets,Correct
