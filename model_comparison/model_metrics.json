@@ -1,0 +1,24 @@
+{
+    "Match Prediction": {
+        "accuracy": 0.7777777777777778,
+        "precision": 0.715925925925926,
+        "recall": 0.7777777777777778,
+        "f1": 0.7361952861952861,
+        "mse": 1218.4
+    },
+    "Player Rating": {
+        "batting_r2": 1.0,
+        "bowling_r2": 1.0,
+        "overall_r2": 1.0
+    },
+    "Team Performance": {
+        "win_rate_mse": 9.198057714046926e-07,
+        "margin_mse": 0.0
+    },
+    "Best 11": {
+        "avg_rating": 62.6371389283556,
+        "avg_batting": 79.20959091748858,
+        "avg_bowling": 33.73137869327533,
+        "role_balance": 0.5464698973312181
+    }
+}
